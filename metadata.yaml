@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40626'
     url: http://www.gutenberg.org/2009/agents/40626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40446#Red-Palmer--A-Practical-Treatise-on-Fly-Fishing
 gutenberg_issued: '2012-08-08'
 gutenberg_type: Text
 identifiers:
