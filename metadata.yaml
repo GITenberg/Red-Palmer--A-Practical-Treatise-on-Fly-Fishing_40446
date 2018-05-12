@@ -1,0 +1,24 @@
+_repo: Red-Palmer--A-Practical-Treatise-on-Fly-Fishing_40446
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40446-h/images/coverh.jpg
+creator:
+  author:
+    agent_name: Tayler, James
+    gutenberg_agent_id: '40626'
+    url: http://www.gutenberg.org/2009/agents/40626
+description: ''
+gutenberg_issued: '2012-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Fly fishing'
+title: 'Red Palmer: A Practical Treatise on Fly Fishing'
+url: http://www.gutenberg.org/ebooks/40446
